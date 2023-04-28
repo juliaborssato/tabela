@@ -1,0 +1,7 @@
+table tr th, table tr td{
+    border: 0.3rem solid rgb(98, 164, 218);
+    padding: 1rem;
+}
+table{
+    border-collapse:collapse;
+}
